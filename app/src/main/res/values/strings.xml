@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">GroupApp</string>
     <string name="todo">TODO</string>
+    <string name="button">Login</string>
+    <string name="button3">LOG IN</string>
+    <string name="button4">LOGIN</string>
 </resources>
